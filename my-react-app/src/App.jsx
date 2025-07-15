@@ -26,7 +26,7 @@ function App() {
       <div className="canvas-card">
         <h1>Canvas API Demo</h1>
         <p className="description">
-          This is a modern React + Vite example using the HTML Canvas API.<br/>
+          This is a modern React + Vite example that demonstrates the use of the Canvas API.<br/>
           The green rectangle is drawn using JavaScript.
         </p>
         <canvas ref={canvasRef} width={200} height={150} id="canvas"></canvas>
